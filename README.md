@@ -21,4 +21,4 @@ This means that the pawn on square 52 (e2) is moved to square 54 (e4). The progr
 
 The game will continue until one player loses it's king.
 ![WindowsTerminal_k1YD0aMYCN](https://user-images.githubusercontent.com/99805998/227740789-ab4cd5b6-7466-49f4-9520-9d771d07e1ee.png)
-![WindowsTerminal_pkFA7plcRY](https://user-images.githubusercontent.com/99805998/227740790-84e587e0-d439-4170-9d4a-84043108e05b.png)
+![WindowsTerminal_qNuIRgWlmr](https://user-images.githubusercontent.com/99805998/227740817-721cf6a3-d88a-4e7b-876e-23dbcefc312c.png)
